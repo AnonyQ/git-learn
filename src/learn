@@ -1,2 +1,3 @@
 git commit
-1.
+1. git add -A
+   将所有的变更都添加到缓存区
