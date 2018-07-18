@@ -1,3 +1,4 @@
 git add [file1] [file2]
 git add [dir]
 git add .
+git checkout [file]
